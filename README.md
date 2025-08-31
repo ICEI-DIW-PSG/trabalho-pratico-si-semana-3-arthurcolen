@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Arthur Isaque Colen de Paula
+- Matricula: 897597
+- Proposta de projeto escolhida: Agenda Organizacional
+- Breve descrição sobre seu projeto: A ideia desse projeto é prover uma agenda que permita organizar seu dia a dia, independente do seu objetivo, já que a aplicação é versátil, abrigando trabalho, estudos e vida pessoal.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe Print](/public/wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home-page](/public/homePage.png)
