@@ -71,3 +71,79 @@ aside nav a {
 aside nav a:hover {
     color: #2d8bba;
 }
+
+main section {
+    display: flex;
+    justify-content: space-between;
+}
+
+main section button {
+    margin: 20px 28px 0 28px;
+    padding: 10px 16px;
+    height: 80px;
+    width: 350px;
+    background-color: #00bf63;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+main section button a {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main section button a:hover {
+    color: #003d20;
+}
+
+main section div.container#event {
+    padding: 16px 28px;
+    margin: 10px;
+    height: 280px;
+    width: 650px;
+    background-color: #2d8bba;
+    border-radius: 8px;
+}
+
+main section div.container#event h2 {
+    margin: 0;
+    padding: 16px 0;
+    font-size: 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main section div.main {
+    display: flex;
+}
+
+main section div.main div.card {
+    color: white;
+    font-size: 25px;
+    padding: 0;
+}
+
+main section div.main div.card h3 {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main section div.main i {
+    display: block;
+    text-align: center;
+    padding: 36px 10px;
+    text-decoration: none;
+    color: black;
+}
+
+main section div.container#event p#details {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
