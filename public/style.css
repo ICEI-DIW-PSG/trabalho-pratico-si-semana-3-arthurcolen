@@ -48,6 +48,7 @@ aside {
     background-color: #ebebeb;
     width: 220px;
     padding: 10px;
+    border-right: 8px solid #ccc;
 }
 
 aside nav {
